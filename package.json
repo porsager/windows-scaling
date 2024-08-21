@@ -1,6 +1,6 @@
 {
   "name": "windows-scaling",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Get and Set Windows Scaling",
   "main": "index.js",
   "author": "Rasmus Porsager <rasmus@porsager.com>",
