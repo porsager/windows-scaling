@@ -1,0 +1,32 @@
+{
+  "name": "windows-scaling",
+  "version": "0.0.0",
+  "description": "Get and Set Windows Scaling",
+  "main": "index.js",
+  "author": "Rasmus Porsager <rasmus@porsager.com>",
+  "repository": "porsager/windows-scaling",
+  "license": "WTFPL",
+  "gypfile": true,
+  "scripts": {
+    "test": "echo some day",
+    "build": "node-gyp rebuild",
+    "clean": "node-gyp clean"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "nan": "2.20.0"
+  },
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/sponsors/porsager"
+  },
+  "homepage": "https://github.com/porsager/windows-scaling",
+  "bugs": "https://github.com/porsager/windows-scaling/issues",
+  "keywords": [
+    "windows",
+    "microsoft",
+    "scaling"
+  ]
+}
